@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcula App de Corrida</title>
+    <script type="text/javascript">
+        function formatarMoeda(valor) {
+            const LOCALE = 'pt-BR';
+            const CURRENCY_STYLE = { style: 'currency', currency: 'BRL' };
+            if (!valor) {
+                return 0.0.toLocaleString(LOCALE, CURRENCY_STYLE);
+            }
+            let valorFormatado = valor.toLocaleString(LOCALE, CURRENCY_STYLE);
+            return valorFormatado;
+        }
+        function calcular() {
+            let tarifaDinamica = 1.4;
+            let fatorTempo = 0.26;
+            let distanciaEmKm = parseFloat(document.getElementById('distancia').value);
+            let tempoEmMinutos = parseFloat(document.getElementById('tempo').value); 
+            let valorDaCorrida = (distanciaEmKm * tarifaDinamica) + (tempoEmMinutos * fatorTempo);
+            alert("O valor da corrida: " + formatarMoeda(valorDaCorrida));
+        }
+    </script>
+</head>
+<body> 
+    <h1>Bem-vindo ao Calcula App de Corrida</h1>
+    <p>Este é um aplicativo para calcular a distância e o tempo de suas corridas.</p>
+    <label for="distancia">Distância em KM: </label>
+    <input type="text" id="distancia" placeholder="Distância em KM"/>
+    <label for="tempo">Tempo em minutos: </label>
+    <input type="text" id="tempo" placeholder="Tempo em minutos"/>
+    <input type="button" value="Calcular" onclick="calcular()"/>
+</body>
+</html>
