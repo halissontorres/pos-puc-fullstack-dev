@@ -23,7 +23,7 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 - JavaScript
 - Git
 
-## Autor
+## Aluno
 
 [Halisson Torres - GitHub](https://github.com/halissontorres)
 

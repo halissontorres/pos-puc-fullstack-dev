@@ -3,4 +3,5 @@ Repositório dedicado aos Códigos, artefatos e documentos desenvolvidos durante
 
 
 ## Disciplinas 
-> 1. [Fundamentos de Computação e Algoritmos](./fundamento-computacao-algoritmos)
+> 1. [Fundamentos de Computação e Algoritmos](./01%20-%20fundamento-computacao-algoritmos/README.md)
+> 2. [Programação Orientada a Objetos](./02%20-%20programacao-orientada-objetos/README.md)
