@@ -29,7 +29,7 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 
 ## Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença [MIT](../LICENSE).
 
 ## Links adicionais
 - [GitHub | Projeto Google Maps JS](https://github.com/googlemaps/google-maps-services-js)

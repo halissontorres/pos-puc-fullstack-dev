@@ -32,12 +32,16 @@ No paradigma orientado a objeto o foco é em objetos do mundo real, ou seja, um 
 
 ## Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença [MIT](../LICENSE).
 
 ## Links adicionais
 
+## Referências bibliográficas
+
+- Concepts of Programming language, Robert W. Sebesta
+- Clean code, Robert Cecil Martin
 
 # Docente
-Alessandro V. Dias
+Alessandro Valério Dias
 
 
