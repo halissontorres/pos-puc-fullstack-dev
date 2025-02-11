@@ -37,4 +37,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 # Docente
 - [GitHub | Prof. Edson Moreno](https://github.com/empucrs)
+- [GitHub | Prof. Mario Souto](https://github.com/omariosouto)
+- [GitHub | Prof. Fabio Cavadas](https://github.com/omariosouto)
+- [YouTube | Prof. Mário Souto](https://youtube.com/c/DevSoutinho) 
 

@@ -19,6 +19,12 @@ Paradigma: é uma forma de fazer algo.
 
 No paradigma orientado a objeto o foco é em objetos do mundo real, ou seja, um estilo de programa. Por outro lado, a programação funcional o foco é em funções.
 
+Dentre esses conceitos, aplicam-se: 
+- `Abstrração`: Capacidade de identificar os aspectos essenciais de um problema e ignorar detalhes irrelevantes  ;
+- `Encapsulamento`: Permitir que os atributos e métodos sejam agrupados de certa forma em uma interface bem definida para manipular os dados de um objeto de forma eficiente. Saber o que o objeto faz e não como o faz;
+- `Herança`: permite identificar e agrupar comportamentos generalizados ou especializados, e favorece o reaproveitamento de código; e
+- `Polimorfismo`: princípio que permite que um mesmo método ou função tenha diferentes comportamentos dependendo do objeto que o invoca;
+
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
