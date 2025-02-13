@@ -3,6 +3,6 @@ Repositório dedicado aos Códigos, artefatos e documentos desenvolvidos durante
 
 
 ## Disciplinas 
-> 1. [Fundamentos de Computação e Algoritmos](./02%20-%20fundamento-computacao-algoritmos/README.md)
-> 2. [Programação Orientada a Objetos](./03%20-%20programacao-orientada-objetos/README.md)
-> 3. [DevOps básico](./04%20-%20DevOps%20Básico/README.md)
+> 2. [Fundamentos de Computação e Algoritmos](./02%20-%20fundamento-computacao-algoritmos/README.md)
+> 3. [Programação Orientada a Objetos](./03%20-%20programacao-orientada-objetos/README.md)
+> 4. [DevOps básico](./04%20-%20DevOps%20Básico/README.md)

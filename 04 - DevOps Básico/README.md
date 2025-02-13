@@ -20,7 +20,7 @@ Focado em três modos:
 
 > Teste A/B: Métodos de testes de design mediante o qual são comparados elementos aleatórios com duas variáveis, A e B, em que estes são o controle e o tratamento de uma experiência controlada.
 
-> Twelve Factors App: são um conjunto de boas práticas para o desenvolvimento de aplicações **SaaS** (Software as a Service) modernas, escaláveis e portáteis. Esse modelo foi criado por engenheiros da **Heroku** e define princípios para construir aplicações robustas, independentes da infraestrutura e fáceis de implantar e manter.
+> **Twelve Factors App**: são um conjunto de boas práticas para o desenvolvimento de aplicações **SaaS** (Software as a Service) modernas, escaláveis e portáteis. Esse modelo foi criado por engenheiros da **Heroku** e define princípios para construir aplicações robustas, independentes da infraestrutura e fáceis de implantar e manter.
 > - `Base de Código Única`: repositório único;
 > - `Dependências Explícitas`: Todas as dependências devem ser declaradas explicitamente (maven, gradle, npm, pip);
 > - `Configuração no Ambiente`: devem ser armazenadas em variáveis de ambiente e nunca no código-fonte;
@@ -34,11 +34,27 @@ Focado em três modos:
 > - `Logs (Tratar Logs como Fluxo de Eventos)` – Logs devem ser escritos em `stdout` e gerenciados por um sistema externo, não armazenados localmente.
 > - `Admin Processes (Tarefas Administrativas como Processos Únicos)` – Tarefas administrativas (como migrações de banco ou execução de scripts) devem ser executadas separadamente, sem impacto no ambiente principal.
 
+> Containers
+
+Características:
+- Isolamento entre processos;
+- Controle de processos;
+- `Idempotência`: descreve uma operação que sempre leva ao mesmo resultado, não importando quantas vezes você a execute; 
+- Portabilidade;
+- Confiabilidade de comportamento
+
+- `Imagem`: Elemento base para criar um container
+- `Container`: Um container é um ambiente de software padronizado que inclui tudo o que um aplicativo precisa para ser executado
+
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
 
-## Tecnologias Utilizadas
+## Tecnologias e Ferramentas Utilizadas
+
+- Git
+- GitHub
+- Conteiners (docker)
 
 
 ## Aluno
@@ -51,12 +67,16 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 ## Links adicionais
 
+- [GitHub | Projeto da aula | Repositório do professor Veronez](https://github.com/KubeDev/conversao-temperatura)
+- [GitHub | Clone do projeto | Repositório Halisson](https://github.com/halissontorres/conversao-temperatura)
+
 ## Referências bibliográficas
 
 
 
 # Docente
-- Fabrício Veronez
+
+- [GitHub | Prof. Fabrício Veronez](https://github.com/fabricioveronez)
 - Marco Aurélio Souza Mangan
 
 
