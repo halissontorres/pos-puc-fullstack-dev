@@ -35,7 +35,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 - [GitHub | Projeto Google Maps JS](https://github.com/googlemaps/google-maps-services-js)
 - [GitHub | API do Github dados de usuário](https://api.github.com/users/halissontorres)
 
-# Docente
+## Docente
 - [GitHub | Prof. Edson Moreno](https://github.com/empucrs)
 - [GitHub | Prof. Mario Souto](https://github.com/omariosouto)
 - [GitHub | Prof. Fabio Cavadas](https://github.com/omariosouto)

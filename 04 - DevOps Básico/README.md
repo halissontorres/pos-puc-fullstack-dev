@@ -52,9 +52,11 @@ Características:
 
 ## Tecnologias e Ferramentas Utilizadas
 
-- Git
-- GitHub
-- Conteiners (docker)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
+- Conteiners ([Docker](https://www.docker.com/))
+- Banco de Dados NOSql ([MongoDB](https://www.mongodb.com/pt-br))
+- [Robot 3T](https://robomongo.org/)
 
 
 ## Aluno
@@ -74,7 +76,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 
 
-# Docente
+## Docente
 
 - [GitHub | Prof. Fabrício Veronez](https://github.com/fabricioveronez)
 - Marco Aurélio Souza Mangan

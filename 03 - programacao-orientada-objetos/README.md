@@ -47,7 +47,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 - Concepts of Programming language, Robert W. Sebesta
 - Clean code, Robert Cecil Martin
 
-# Docente
+## Docente
 Alessandro Valério Dias
 
 
