@@ -34,6 +34,12 @@ Visão geral da abordagem de banco de dados. Estudo sobre modelagem conceitual (
 
 > `Relacionamento`:  são associações entre entidades. Representado por losangos. 
 
+> `Constraints`: regras que definem limitações aos dados que podem ser inseridos ou modificados em uma tabela de um banco de dados. 
+
+> `Chave primária`:  é um campo que identifica de forma única cada linha de uma tabela de banco de dados
+
+> `Chave estrangeira`: é um campo que permite estabelecer uma relação entre tabelas de um banco de dados
+
 
 ## Estrutura do Repositório
 
