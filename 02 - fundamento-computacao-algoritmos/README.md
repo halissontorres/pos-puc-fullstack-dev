@@ -26,6 +26,7 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 ## Tecnologias apresentadas
 
 - [Datomic: banco de dados cronológico](https://www.datomic.com/) 
+- Quokka JS - Quokka.js é uma ferramenta (plugin do VS Code) de produtividade para desenvolvedores para prototipagem rápida de JavaScript/TypeScript
 
 ## Aluno
 
@@ -43,10 +44,18 @@ Este projeto está sob a licença [MIT](../LICENSE).
 - [GitHub | Projeto Google Maps JS](https://github.com/googlemaps/google-maps-services-js)
 - [GitHub | API do Github dados de usuário](https://api.github.com/users/halissontorres)
 - [Hacker rank | Avaliação técnica para contraração de devs](https://hackerrank.com)
+- [MDN Web Docs | Resources for Developers](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Loupe javascript](http://latentflip.com/loupe):
+> Loupe é uma pequena aplicação para ajudar você a entender como a pilha de chamadas/loop de eventos/fila de retorno de chamada do JavaScript interagem entre si.
 
 ## Docente
 - [GitHub | Prof. Edson Moreno](https://github.com/empucrs)
 - [GitHub | Prof. Mario Souto](https://github.com/omariosouto)
 - [GitHub | Prof. Fabio Cavadas](https://github.com/omariosouto)
 - [YouTube | Prof. Mário Souto](https://youtube.com/c/DevSoutinho) 
+
+
+## Referências bibliográficas
+
+- Refactoring | Martin Fowler
 
