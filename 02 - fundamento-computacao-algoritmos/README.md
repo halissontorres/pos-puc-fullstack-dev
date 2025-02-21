@@ -13,6 +13,8 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 - Estruturas de dados básicas
 - Complexidade de algoritmos
 
+> 💡 Javascript foi escolhida como linguagem fundamental da disciplina
+
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
@@ -23,10 +25,11 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 - JavaScript
 - Git
 
-## Tecnologias apresentadas
+## Tecnologias e ferramentas apresentadas
 
 - [Datomic: banco de dados cronológico](https://www.datomic.com/) 
 - Quokka JS - Quokka.js é uma ferramenta (plugin do VS Code) de produtividade para desenvolvedores para prototipagem rápida de JavaScript/TypeScript
+- [VSCode | IDE Desenvolvida pela Microsoft](https://code.visualstudio.com/)
 
 ## Aluno
 
