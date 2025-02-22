@@ -37,7 +37,11 @@ Esta disciplina aborda conceitos fundamentais de programação e desenvolvimento
 
 ## Repositório da aula
 
-[Github | pucpos-code](https://github.com/omariosouto/pucpos-code.git)
+- [Github | pucpos-code](https://github.com/omariosouto/pucpos-code.git)
+- [Github | LinkedList](https://github.com/loiane/javascript-datastructures-algorithms/blob/main/src/js/data-structures/linked-list.js)
+- [Github | Árvore binária | loiane](https://github.com/loiane/javascript-datastructures-algorithms/blob/main/src/js/data-structures/binary-search-tree.js)
+- [Github | Árvore binária | amejiarosario](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/blob/master/src/data-structures/trees/binary-tree-node.js)
+
 
 ## Licença
 
