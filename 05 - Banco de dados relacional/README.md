@@ -40,6 +40,8 @@ Visão geral da abordagem de banco de dados. Estudo sobre modelagem conceitual (
 
 > `Chave estrangeira`: é um campo que permite estabelecer uma relação entre tabelas de um banco de dados
 
+> `Surrogate key`: Uma chave substituta (ou chave sintética, pseudochave, identificador de entidade, chave sem fatos ou chave técnica) em um banco de dados é um identificador exclusivo para uma entidade no mundo modelado ou um objeto no banco de dados
+
 
 ## Estrutura do Repositório
 
