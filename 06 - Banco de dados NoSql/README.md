@@ -7,6 +7,8 @@ Repositório dedicado às atividades e projetos desenvolvidos na disciplina de `
 
 ## Conceitos
 
+- Entidades: Representam objetos da realidade: pessoas, objetos inanimados, documentos, locais, eventos
+
 
 ## Estrutura do Repositório
 
