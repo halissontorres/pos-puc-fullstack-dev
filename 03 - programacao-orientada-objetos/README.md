@@ -26,7 +26,7 @@ Dentre esses conceitos, aplicam-se:
 - `Polimorfismo`: princípio que permite que um mesmo método ou função tenha diferentes comportamentos dependendo do objeto que o invoca;
 - `Protótipo`: Em javascript, é um mecanismo de herança entra objetos que fornece atributos e métodos.
 
-> 💡 Visibilidade: O identificador préfixado `#atributo` torna-o privado.
+> 💡 Visibilidade: O identificador prefixado `#atributo` torna-o privado.
 
 ```javascript
 class Pessoa {
@@ -44,6 +44,7 @@ class Pessoa {
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
+- `/exemplos_da_aula`: Exemplos apresentados pelo Professor
 
 ## Tecnologias Utilizadas
 
@@ -58,6 +59,9 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 ## Links adicionais
 
+- [PUC-RS | GitHUb](https://github.com/empucrs/DesenvolvimentoFullStack)
+- [MDN Web docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 ## Referências bibliográficas
 
 - Concepts of Programming language, Robert W. Sebesta
@@ -65,6 +69,5 @@ Este projeto está sob a licença [MIT](../LICENSE).
 - Refactoring | Martin Fowler
 
 ## Docente
-Alessandro Valério Dias
-
-
+- Alessandro Valério Dias
+- Edson Ifarraguirre Moreno
