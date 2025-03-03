@@ -41,6 +41,25 @@ class Pessoa {
 }
 ``` 
 
+> 💡 Característica de `for-in` e `for-of`
+ 
+Considere:
+
+```javascript
+var a = [];
+a[0] = 'a';
+a[1] = 'b';
+a[9] = 'c';
+console.log(a.length); // Imprime 10
+
+for(let val in a)
+console.log(" --> "+val); //Imprime os índices ocupados: 0,1 e 9
+console.log('')
+
+for(let val of a)
+console.log(" --> "+val); //Imprime os valores existentes, inclusive undefined
+```
+
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
