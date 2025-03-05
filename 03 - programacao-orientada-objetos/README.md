@@ -53,7 +53,7 @@ a[9] = 'c';
 console.log(a.length); // Imprime 10
 
 for(let val in a)
-console.log(" --> "+val); //Imprime os índices ocupados: 0,1 e 9
+console.log(" --> "+val); //Imprime os índices expliciamente iniciados: 0,1 e 9
 console.log('')
 
 for(let val of a)
