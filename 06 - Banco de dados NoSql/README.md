@@ -4,11 +4,74 @@ Repositório dedicado às atividades e projetos desenvolvidos na disciplina de `
 
 ## Sobre a Disciplina
 
+Introdução aos conceitos e características de Big Data como: volume,
+velocidade, variedade, validade, volatilidade e valência. Introdução aos conceitos de
+cluster, domínios, agregados, distribuição, tolerância a falhas e sharding. Estudo do
+Teorema CAP: consistência (Consistency), disponibilidade (Availability), tolerância de
+partição (Partition). Introdução a Bancos de dados sem esquema prévio, a Banco de
+dados baseado em documentos, a Banco de dados chave-valor, a Banco de dados
+colunar e a Banco de dados baseado em grafos.
+
 
 ## Conceitos
 
 - Entidades: Representam objetos da realidade: pessoas, objetos inanimados, documentos, locais, eventos
 
+**1ª Forma Normal (1FN)**: Remover valores duplicados, garantindo que cada coluna contenha um único valor atômico. Exemplo: em vez de listar múltiplos telefones em uma única coluna, criamos linhas separadas para cada telefone.
+    
+- **2ª Forma Normal (2FN)**: ==Eliminar dependências parciais==: após estar na 1FN, todos os atributos não-chave dependam totalmente da chave primária, eliminando dependências parciais e redundâncias. 
+    
+- **3ª Forma Normal (3FN)**: Remover dependências transitivas, garante que todos os atributos não-chave sejam independentes entre si e dependam exclusivamente da chave primária, eliminando dependências transitivas
+
+---
+
+> O teorema CAP diz que um sistema distribuído pode fornecer apenas duas de três características desejadas: 
+
+1. **consistência**, 
+2. **disponibilidade**
+3. **tolerância a partições** 
+
+> Do inglês: Consistency, Availability e **partition tolerance**
+
+**Consistência**
+
+Consistência significa que todos os clientes veem os mesmos dados ao mesmo tempo, independentemente do nó ao qual se conectam. Para que isso aconteça, sempre que os dados forem gravados em um nó, eles deverão ser imediatamente encaminhados ou replicados para todos os outros nós no sistema antes que a gravação seja considerada "sucesso".
+
+**Disponibilidade**
+
+Disponibilidade significa que qualquer cliente que faça uma solicitação de dados recebe uma resposta, mesmo que um ou mais nós estejam inativos. Outra forma de afirmar isso: todos os nós em funcionamento no sistema distribuído retornam uma resposta válida para qualquer solicitação, sem exceção.
+
+**Tolerância à partição**
+
+Uma partição é uma quebra de comunicação dentro de um sistema distribuído — uma conexão perdida ou temporariamente atrasada entre dois nós. Tolerância de partição significa que o cluster deve continuar funcionando apesar de qualquer número de quebras de comunicação entre nós no sistema.
+
+### Modelos de Transações de SGBDs
+
+#### Requisitos ACID:
+
+- Atomicidade: Cada transação é executada corretamente ou o processo é interrompido e o banco de dados
+volta ao estado anterior ao início da transação. Isso garante que todos os dados no banco de dados sejam válidos.
+
+- Consistência: Uma transação processada nunca colocará em risco a integridade estrutural do banco de dados.
+
+- Isolamento: As transações não podem comprometer a integridade de outras transações interagindo com elas
+enquanto ainda estão em andamento.
+
+- Durabilidade - Os dados relacionados à transação concluída persistirão mesmo nos casos de queda de rede ou energia. Se uma transação falhar, ela não afetará os dados manipulados.
+
+#### Requisitos BASE
+
+- BAsicamente disponível: Em vez de impor consistência imediata, os bancos de dados NoSQL modelados em BASE
+garantirão a disponibilidade dos dados, espalhando-os e replicando-os pelos nós do cluster de
+banco de dados.
+
+- Soft state: Devido à falta de consistência imediata, os valores dos dados podem mudar ao longo do tempo. O modelo BASE rompe com o conceito de banco de dados que impõe sua própria consistência,
+delegando essa responsabilidade aos desenvolvedores.
+
+- Eventualmente consistente: O fato de o BASE não impor consistência imediata não significa que nunca a alcance. No entanto, até que isso aconteça, as leituras de dados ainda são possíveis (mesmo que não
+reflitam a realidade).
+
+---
 
 ## Estrutura do Repositório
 
