@@ -129,6 +129,11 @@ reflitam a realidade).
 
 - Empresas que usam: eBay, Adobe, Forbes
 
+> Organização dos dados
+
+- Databases: Armazena registros de dados como documentos (BSON) reunidos em collections;
+- Collections: Armazenam os documentos. São análogas a tabelas em SGBD relacionais.
+
 ---
 
 > `Redis`
