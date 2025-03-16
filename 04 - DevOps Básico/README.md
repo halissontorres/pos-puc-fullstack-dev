@@ -50,6 +50,10 @@ Características:
 
 - `/exercicios`: Diretório contendo as atividades práticas
 
+## Pipeline
+
+> `Definição`: é uma sequência automatizada de processos que orquestra a construção, testes e implementação de software, desde a codificação até a produção, promovendo a colaboração entre desenvolvimento e operações
+
 ## Tecnologias e Ferramentas Utilizadas
 
 - [Git](https://git-scm.com/)
@@ -61,7 +65,9 @@ Características:
 
 ## Aluno
 
-[Halisson Torres - GitHub](https://github.com/halissontorres)
+- [Halisson Torres - GitHub](https://github.com/halissontorres)
+
+- [Halisson Torres - Dockerhub](https://hub.docker.com/repository/docker/halissontorres/pos-graduacao-puc-rs/general)
 
 ## Licença
 
@@ -71,6 +77,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 - [GitHub | Projeto da aula | Repositório do professor Veronez](https://github.com/KubeDev/conversao-temperatura)
 - [GitHub | Clone do projeto | Repositório Halisson](https://github.com/halissontorres/conversao-temperatura)
+
 
 ## Referências bibliográficas
 
