@@ -81,7 +81,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 
 ## Referências bibliográficas
 
-
+- The devops adoption playbook | Shajeev Sharman
 
 ## Docente
 
