@@ -72,7 +72,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 ## Docente
 
 - Prof. Azriel Majdenbaum
-- Prof. Claudio Bonel
+- [Prof. Claudio Bonel](https://github.com/claudiobonel/pucrs-banco_de_dados_relacional/)
 
 
 
