@@ -49,7 +49,7 @@ tbProduto = pd.DataFrame(produto)
 #######################
 # PRODUTO
 #######################
-#Criando um conexão variável de conexão com o BD
+#Criando um conexão variável de congit stxão com o BD
 conn = engine.connect()
 
 #Variável de definição de metadados, para identificar que estrutura será atualizada
