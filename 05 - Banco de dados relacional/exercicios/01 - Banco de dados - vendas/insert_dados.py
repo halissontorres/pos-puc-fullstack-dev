@@ -73,3 +73,5 @@ print("tbProduto criada!")
 
 sessao.close_all()
 print("Módulo de inserção de dados finalizado!")
+
+
