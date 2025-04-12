@@ -53,6 +53,10 @@ Visão geral da abordagem de banco de dados. Estudo sobre modelagem conceitual (
 
  - [Draw IO](https://www.drawio.com/): Editor online para diagramas 
 
+ - [LiveSQL Oracle](ivesql.oracle.com) 
+
+ - [Download brModelo 3.2](https://www.brmodeloweb.com/lang/pt-br/index.html)
+
 ## Aluno
 
 [Halisson Torres - GitHub](https://github.com/halissontorres)
@@ -61,11 +65,14 @@ Visão geral da abordagem de banco de dados. Estudo sobre modelagem conceitual (
 
 Este projeto está sob a licença [MIT](../LICENSE).
 
-## Links adicionais
-
 
 
 ## Referências bibliográficas
+
+- BONEL, Claudio. Metodologia E Engenharia De Requisitos Para Projetos De Business Intelligence. Clube de Autores, 2021.
+- COPELAND, Rick. Essential sqlalchemy. 2. ed. O'Reilly Media, Inc., 2016.
+- ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 7 ed. São Paulo: Pearson Education do Brasil, 2018.
+- SQLite. Datatypes in SQLIte. Disponível em https://www.sqlite.org/datatype3.html. Acesso: 25/07/2022
 
 
 
