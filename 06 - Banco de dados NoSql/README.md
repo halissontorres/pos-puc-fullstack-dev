@@ -71,6 +71,10 @@ delegando essa responsabilidade aos desenvolvedores.
 - Eventualmente consistente: O fato de o BASE não impor consistência imediata não significa que nunca a alcance. No entanto, até que isso aconteça, as leituras de dados ainda são possíveis (mesmo que não
 reflitam a realidade).
 
+- `sharding`: Técnica de dividir o servidor de banco de dados, em partes, responsáveis pela leitura e escrita de seus dados 
+
+- `SPOF`: Single point of failure -> Um componente em um sistema em que, se falhar, todo o sistema pode falhar.
+
 ---
 
 ## Estrutura do Repositório
@@ -216,7 +220,19 @@ reflitam a realidade).
 
 - Dados sensíveis ao tempo: Monitoramento em tempo real, telemetria, logs distribuídos.
 
-- Empresas que usam: Discord, Comcast, Samsung, Bloomberg.
+- Empresas que usam: Discord, Comcast, Samsung, Bloomberg
+
+### Cassandra:
+
+- Keyspace: Similar ao “database” dos bancos relacionais;
+
+- Table: O objeto do banco de dados, similar à tabelas SQL;
+
+- Primary Key: Identiﬁcador único de uma tabela, pode ser composto;
+
+- Partition Key: Chave derivada de elementos da PK, que direciona os dados para sua partição correspondente;
+
+- Clustering Key: Chave derivada, também da PK, que ordena os dados dentro de uma partição.
 
 ## Aluno
 
@@ -238,7 +254,7 @@ Este projeto está sob a licença [MIT](../LICENSE).
 ## Docente
 
 - Prof. MSc. Eduardo Henrique Pereira Arruda
-- Prof. Vinícius Kroth 
+- Prof. Vinícius Frantz Kroth 
 
 
 
