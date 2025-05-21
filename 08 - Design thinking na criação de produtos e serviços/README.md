@@ -10,6 +10,15 @@ para a criação de valor. O entendimento da criatividade e o processo criativo.
 
 ## Conceitos
 
+- `Mindset`: É um modelo mental, é a maneira predominante de como uma pessoa pensa e interage com o mundo.
+
+- `Design`: é tornar tangível uma intenção de transformação
+
+- `Dimensões do Design Thinking`: factibildiade, viabilidade, desejabilidade
+
+- `kick-off`: Reunião realizada na fase inicial de um projeto com objetivo de alinhar expectativas, definir objetivos e validar cronograma de ações com os stakeholders.
+
+- `Framework`: Conjunto particular de regras, ideias e crenças empregado para lidar com problemas ou tomada de decisões.
 
 ## Estrutura do Repositório
 
