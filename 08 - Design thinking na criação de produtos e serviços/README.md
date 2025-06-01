@@ -1,6 +1,6 @@
 # Design thinking na criação de produtos e serviços
 
-Repositório dedicado às atividades e projetos desenvolvidos na disciplina de `DevOps Avançado` do Curso de [Pós-Graduação em Desenvolvimento Full Stack da PUCRS](https://online.pucrs.br/pos-graduacao/desenvolvimento-full-stack).
+Repositório dedicado às atividades e projetos desenvolvidos na disciplina de `Design thinking na criação de produtos e serviços` do Curso de [Pós-Graduação em Desenvolvimento Full Stack da PUCRS](https://online.pucrs.br/pos-graduacao/desenvolvimento-full-stack).
 
 ## Sobre a Disciplina
 
