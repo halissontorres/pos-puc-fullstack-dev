@@ -69,6 +69,29 @@ dados
 
 - Biblioteca para criptografia de ponta a ponta para mensagens instantâneas
 
+### Análise de risco
+
+- Analisar ameaças
+- Identificar ativos
+- Avaliar vulnerabilidades
+- Avaliar impacto
+- Classificar os riscos
+- Plano de mitigação
+- Monitoramento
+
+### Método STRIDE
+
+- Spooging: Falsificação de identidade
+- Tampering: Violação ou adulteração
+- Repudiation: Negação de ter realizado uma ação
+- Information disclosure: Vazamento de dados
+- Denial of Service: negação de serviço
+- Elevation privilege: Escalação de privilégios
+
+### Autenticação
+
+- Processo de verificar a identidade de um usuário
+
 
 ## Estrutura do Repositório
 
