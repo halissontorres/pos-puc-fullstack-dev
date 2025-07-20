@@ -20,6 +20,21 @@ Estudo de casos de aplicações que utilizam computação em nuvem. Desafios e t
 - Globalização em minutos
 
 
+### Arquitetura de Nuvem Multitenancy (Multi-Inquilino)
+
+> A arquitetura multitenancy força com que as
+aplicações tenham um nível de isolamento, segmentação, políticas e níveis de serviço diferentes por perfil de usuários. Esta arquitetura
+pressupõe uma abordagem de design que permita a economia em escala, disponibilidade, segurança, isolamento e eficiência operacional através do compartilhamento da infraestrutura, dos dados e serviços através de diferentes clientes.
+
+### Aspectos essênciais da arquitetura em nuvem
+
+- Otimização de custos
+- Excelência operacional
+- Eficiência de performance
+- Confiabilidade
+- Segurança
+
+
 ## Estrutura do Repositório
 
 - `/exercicios`: Diretório contendo as atividades práticas
